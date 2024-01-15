@@ -1,0 +1,125 @@
+[
+    {
+      "_id": "1",
+      "name":"Home delivery",
+       "option" : [
+        {
+          "price": "99",
+          "name": "Package fee",
+          "img": "https://cdn2.vectorstock.com/i/1000x1000/21/96/home-delivery-box-vector-3982196.jpg"
+        },
+        {
+          "price": "10.",
+          "name": " tax fee",
+          "img": "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/feature/images/tax-gdp-ratio.jpg"
+        },
+        {
+          "price": "55",
+          "name": "other fee",
+          "img": "https://img.lovepik.com/free-png/20211213/lovepik-etc-high-speed-no-parking-fee-png-image_401573655_wh1200.png"
+        }
+        
+     
+       ]
+    
+    },
+    {
+      "_id": "2",
+      "name":"Package delivery",
+       "option" : [
+        {
+            "price": "77",
+            "name": "Package fee",
+            "img": "https://cdn2.vectorstock.com/i/1000x1000/21/96/home-delivery-box-vector-3982196.jpg"
+          },
+          {
+            "price": "10",
+            "name": " tax fee",
+            "img": "https://cdn2.vectorstock.com/i/1000x1000/21/96/home-delivery-box-vector-3982196.jpg"
+          },
+          {
+            "price": "66",
+            "name": "other fee",
+            "img": "https://cdn2.vectorstock.com/i/1000x1000/21/96/home-delivery-box-vector-3982196.jpg"
+          }
+          
+        
+     
+       ]
+    
+    },
+      {
+        "_id": "3",
+        "name":"order delivery",
+         "option" : [
+            {
+                "price": "77",
+                "name": "order fee",
+                "img": "https://cdn2.vectorstock.com/i/1000x1000/21/96/home-delivery-box-vector-3982196.jpg"
+              },
+              {
+                "price": "10",
+                "name": " tax fee",
+                "img": "https://cdn2.vectorstock.com/i/1000x1000/21/96/home-delivery-box-vector-3982196.jpg"
+              },
+              {
+                "price": "88",
+                "name": "other fee",
+                "img": "https://cdn2.vectorstock.com/i/1000x1000/21/96/home-delivery-box-vector-3982196.jpg"
+              }
+                
+       
+         ]
+      
+      },
+      
+      {
+        "_id": "4",
+        "name":"Call delivery",
+         "option" : [
+            {
+                "price": "98",
+                "name": "Call fee",
+                "img": "https://cdn2.vectorstock.com/i/1000x1000/21/96/home-delivery-box-vector-3982196.jpg"
+              },
+              {
+                "price": "10",
+                "name": " tax fee",
+                "img": "https://cdn2.vectorstock.com/i/1000x1000/21/96/home-delivery-box-vector-3982196.jpg"
+              },
+              {
+                "price": "56",
+                "name": "other fee",
+                "img": "https://cdn2.vectorstock.com/i/1000x1000/21/96/home-delivery-box-vector-3982196.jpg"
+              }
+              
+       
+         ]
+      
+      },
+      {
+        "_id": "5",
+        "name": "Third Party delivery",
+         "option" : [
+            {
+                "price": "90",
+                "name": "Package fee",
+                "img": "https://cdn2.vectorstock.com/i/1000x1000/21/96/home-delivery-box-vector-3982196.jpg"
+              },
+              {
+                "price": "10",
+                "name": " tax fee",
+                "img": "https://cdn2.vectorstock.com/i/1000x1000/21/96/home-delivery-box-vector-3982196.jpg"
+              },
+              {
+                "price": "40",
+                "name": "other fee",
+                "img": "https://cdn2.vectorstock.com/i/1000x1000/21/96/home-delivery-box-vector-3982196.jpg"
+              }
+              
+       
+         ]
+      
+      }
+    
+  ]

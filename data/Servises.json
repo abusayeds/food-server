@@ -1,0 +1,68 @@
+[
+    {
+        "id": "1",
+        "name": "Home delivery",
+        "price": "120",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVYPuTM4DTyRRv8NMtIF9n9N1IlOnoXhaPDJN0-yYrUPJbZhFZR2yjYgnoH9R5aj-HN-o&usqp=CAU",
+        "sub-details": 
+            {
+             "servise": "1200",
+             "sub-servise": "399"
+            }
+         
+    },
+    {
+        
+        "id": "2",
+        "name": "Package delivery",
+        "price": "140 ",
+        "img": "https://media.istockphoto.com/id/1419618300/video/woman-receiving-a-paper-bag-delivered-at-the-front-door.jpg?s=640x640&k=20&c=PhrelVJaZmAO-c77n_tI8dNZkM4YzyQSk8lSt-mBifk=",
+        "sub-details": 
+        {
+         "servise": "1200",
+         "sub-servise": "399"
+        }
+    },
+    {
+        
+        "id": "3",
+        "name": "Order delivery",
+        "price": "128",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_GUG7PYQNKTvXqQteTEumEQyT0cZYtMb9kw&usqp=CAU",
+        "sub-details": 
+            {
+             "servise": "1200",
+             "sub-servise": "399"
+            } 
+        
+    },
+    {
+        
+        "id": "4",
+        "name": "Call delivery",
+        "price": "180",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGPiVxdQW7c5C3x4dg1IbalIZQAceLclputw&usqp=CAU",
+        "sub-details": 
+            {
+             "servise": "1200",
+             "sub-servise": "399"
+            }
+        
+    },
+    {
+        
+        "id": "5",
+        "name": "Third Party delivery",
+        "price": "100",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIte3mQXghvcgESNfh9g7M7pAgj1JjXPOhog&usqp=CAU",
+        "sub-details": 
+        {
+         "servise": "1200",
+         "sub-servise": "399"
+        }
+       
+    }
+   
+   
+
+]
